@@ -4,4 +4,4 @@
 
 ## Getting started
 
-* [Creating mod repository](getting-started/creating-mod-repository.md)
+* [Publishing mod on BYDLE Client](getting-started/publishing-mod-on-bydle-client.md)
