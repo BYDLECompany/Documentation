@@ -2,11 +2,7 @@
 
 * [Welcome to oficial BYDLE Client Documentation!](README.md)
 
-## Getting started
+## Publishing your mod <a href="#publishing" id="publishing"></a>
 
-* [Publishing mod on BYDLE Client](getting-started/publishing-mod-on-bydle-client.md)
-* [Mod version description language](getting-started/mod-version-description-language.md)
-
-## zwojnicow
-
-* [Page 1](zwojnicow/page-1.md)
+* [Publishing mod on BYDLE Client](publishing/publishing-mod-on-bydle-client.md)
+* [Mod version description language](publishing/mod-version-description-language.md)
